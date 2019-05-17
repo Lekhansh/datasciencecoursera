@@ -9,9 +9,9 @@ This dataset includes the following files:
 
 ## Breif Description of the Original Data source 
 
-The data is provided as a part of this assignment and is available at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip - automatic!
+The data is provided as a part of this assignment and is available at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-An understanding of the source and purpose of original data can be obtained from: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones - automatic! and, from the Readme file downloaded along with the dataset. 
+An understanding of the source and purpose of original data can be obtained from: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones and, from the Readme file downloaded along with the dataset. 
 In summary, there are two similar datsets provided - train and test. Each dataset consists of numerous summary measures (like mean, SD, median) of raw observations obtained through a smartphone while subjects engaged in six types of activities. The data is normalised and is thus unitless.
 
 ## Task given in the assignment (verbatim):
@@ -45,7 +45,7 @@ The R script does the following steps to fulfill the task:
 
 ## Tidy data set
 
-The dataset prepared in step 10 conforms to the priciples of tidy data as described as widely agreed upon in the research community (for example see: Hadley Wickham's paper on Tidy data at: https://vita.had.co.nz/papers/tidy-data.pdf - automatic!). The specific characteristics are:
+The dataset prepared in step 10 conforms to the priciples of tidy data as described as widely agreed upon in the research community (for example see: Hadley Wickham's paper on Tidy data at: https://vita.had.co.nz/papers/tidy-data.pdf). The specific characteristics are:
 
 1. Each column is a variable.
 
